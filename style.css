@@ -1,0 +1,116 @@
+
+*{
+    box-sizing: border-box;
+   
+}
+body{
+    background-size: cover ;
+   
+}
+
+#first-article{
+    min-height: 90vh;
+   background-color: #f5f5dc;
+   background-size: cover ;
+   background-position: center;
+   
+}
+
+nav{
+    
+    background-color: #f6f6ff83;
+    backdrop-filter: blur(100px);
+    padding: 0;
+    
+}
+#first-container{
+    
+    background-color: rgba(201, 189, 255, 0.58);
+    padding-top: 120px;
+    border-radius: 0 0 100% 0%;
+    margin-left: 0;
+   
+    
+   
+}
+.lead{
+    font-weight:400;
+}
+.bolder{
+    font-weight:500;
+}
+
+#second-article{
+    background-color: rgba(222, 227, 255, 0.796);
+    
+}
+
+h2{
+    padding-top: 100px ;
+}
+#icons{
+    padding-top: 62px ;
+    padding-bottom: 68px;
+}
+
+
+
+#miafoto{
+    width: 68%;
+    border-radius: 100% ;
+    margin-left: 100px;
+    
+}
+h3{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+button{
+    cursor: pointer;
+}
+#form{
+    background-color: #DEE3FF;
+}
+
+.nav-link:hover  {
+    border-bottom: solid #6DB5E7 1px;
+    transition:step-end 5ms;
+}
+
+#contact-form{
+    max-width: 62% ;
+    margin: auto;
+    padding-top: 50px;
+}
+#message{
+    height: 60px;
+
+}
+
+#submit-btn{
+    background-color: #CABEFF;
+    
+}
+#reset-btn{
+    background-color: #F6F5FF;
+    
+}
+#reset-btn, #submit-btn{
+    font-weight: bolder;
+    color: black;
+    border: solid #785CFF 1px;
+}
+footer{
+    background-color: rgb(189, 193, 197);
+}
+#container-footer{
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+}
+a{
+    
+    color: black;
+}
+.padding{
+    padding-bottom: 4rem;
+}

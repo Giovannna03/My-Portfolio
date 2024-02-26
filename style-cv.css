@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+main, nav{
+    background-color:rgb(241, 232, 220);
+    background-size: cover ;
+   background-position: center;
+}
+li{
+   
+    color: black;
+}
+#second-article{
+    padding-bottom: 4rem;
+}
